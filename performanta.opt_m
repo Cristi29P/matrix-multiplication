@@ -1,0 +1,10 @@
+Run=./tema2_opt_m: N=400: Time=0.251858
+Run=./tema2_opt_m: N=500: Time=0.488962
+Run=./tema2_opt_m: N=600: Time=0.822327
+Run=./tema2_opt_m: N=700: Time=1.329453
+Run=./tema2_opt_m: N=800: Time=1.948451
+Run=./tema2_opt_m: N=900: Time=2.816061
+Run=./tema2_opt_m: N=1000: Time=3.781510
+Run=./tema2_opt_m: N=1100: Time=5.053730
+Run=./tema2_opt_m: N=1200: Time=6.593180
+Run=./tema2_opt_m: N=1300: Time=8.614140
